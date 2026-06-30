@@ -1,0 +1,9 @@
+1.Netflix has 8,807 titles in the dataset, including Movies and TV Shows.
+2.Movies significantly outnumber TV Shows on Netflix, indicating that Netflix's content library is primarily focused on movies.
+3.The United States contributes the largest number of titles to Netflix, followed by several other countries. This indicates that the U.S. is the dominant content producer in Netflix's catalog.
+4. TV-MA is the most common content rating on Netflix, followed by TV-14 and TV-PG. This suggests that Netflix primarily offers content targeted toward mature and teenage audiences.
+5.The number of Netflix titles has increased significantly over the years, with the 2010s showing the highest number of releases. This reflects Netflix's rapid expansion and investment in content during that decade.
+6.International Movies is the most common genre on Netflix, indicating that Netflix has a strong focus on providing diverse content from around the world. This is followed by genres such as dramas, comedies, and international TV shows.
+7.Rajiv Chilaka has directed the highest number of titles available in this Netflix dataset, reflecting a strong presence of animated children's content.
+8.Netflix added the highest number of titles in 2019. The number of additions increased steadily over the years, peaked in 2019, and then declined slightly afterward.
+9.Most Netflix movies have a duration between 80 and 120 minutes.
